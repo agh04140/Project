@@ -1,2 +1,2 @@
 # Project
-Almost C project
+My Project
